@@ -2,8 +2,8 @@
 
 Collection of exercises on webscraping, text parsing, data analysis and visualisation.
 
-1. Age structure of the German Parliament
----
+## 1. Age structure of the German Parliament
+
 
 *June 2025*
 
@@ -16,8 +16,8 @@ Collection of exercises on webscraping, text parsing, data analysis and visualis
 - values for 2022 and later are predicted,
 - we will use the entries from 2021, which are stored in row `142`(male) and `143` (female).
 
-2. Age structure of US congress before 2026-midterms
----
+## 2. Age structure of US congress before 2026-midterms
+
 
 *October 2026*
 
