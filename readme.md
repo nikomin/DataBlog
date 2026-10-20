@@ -22,9 +22,9 @@ Collection of exercises on webscraping, text parsing, data analysis and visualis
 *October 2026*
 
 - folder [[02-age\ groups\ in\ US\ chambers]]
-- Jupyter notebook report: [02-age\ groups\ in\ US\ chambers/Amerika\ ist\ jünger\ als\ Deutschland,\ seine\ Volksvertreter\ sind\ älter.ipynb]
-- data for reproduction in sub-folder [[02-age\ groups\ in\ US\ chambers/data]]
-- data sources, preparation, and analysis in [[02-age\ groups\ in\ US\ chambers/01-dataPrep.ipynb]] and [[02-age\ groups\ in\ US\ chambers/02-analysis.ipynb]]
+- Jupyter notebook report: [Amerika ist jünger als Deutschland, seine Volksvertreter sind älter](https://github.com/nikomin/agegroupsAndRepresentation/blob/main/02-age%20groups%20in%20US%20chambers/Amerika%20ist%20j%C3%BCnger%20als%20Deutschland%2C%20seine%20Volksvertreter%20sind%20%C3%A4lter.ipynb)
+- data for reproduction in sub-folder `02-age groups in US chambers/data`
+- data sources, preparation, and analysis in `01-dataPrep.ipynb` and `02-analysis.ipynb`
 
 
 ---
