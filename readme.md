@@ -1,6 +1,6 @@
 # Age groups and representation
 
-Web scraping, text parsing, analysis and visualisation of population data and representation.
+*Web scraping, text parsing, analysis and visualisation of data*
 
 Repository with all code and data: [https://github.com/nikomin/agegroupsAndRepresentation](https://github.com/nikomin/agegroupsAndRepresentation)
 
