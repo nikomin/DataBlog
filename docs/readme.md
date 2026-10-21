@@ -2,7 +2,7 @@
 
 *Web scraping, text parsing, analysis and visualisation of data*
 
-Repository with all code and data: [https://github.com/nikomin/agegroupsAndRepresentation](https://github.com/nikomin/agegroupsAndRepresentation)
+Repository with all code and data: [https://github.com/nikomin/DataBlog](https://github.com/nikomin/DataBlog)
 
 ## 1. Age structure of the German Parliament
 
@@ -25,4 +25,4 @@ Repository with all code and data: [https://github.com/nikomin/agegroupsAndRepre
 
 ---
 
-*[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Niko Komin*
+*[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Niko Komin](https://www.nikokomin.net)*
