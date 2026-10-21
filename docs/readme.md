@@ -1,4 +1,4 @@
-# Age groups and representation
+# Data Blog
 
 *Web scraping, text parsing, analysis and visualisation of data*
 
@@ -14,7 +14,7 @@ Repository with all code and data: [https://github.com/nikomin/agegroupsAndRepre
 ![bar charts showing age groups of German population, Bundestag and government](<./Gen X macht die Politik/output_4_0.png>)
 
 
-## 2. Age structure of US congress before 2026-midterms
+## 2. Age structure of US congress before the 2026-midterms
 
 
 *October 2026*
