@@ -1,6 +1,6 @@
 # Data Blog
 
-*Web scraping, text parsing, analysis and visualisation of data*
+*Data – collection, analysis, visualisation, interpretation*
 
 Repository with all code and data: [https://github.com/nikomin/DataBlog](https://github.com/nikomin/DataBlog)
 
